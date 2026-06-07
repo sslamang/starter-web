@@ -1,7 +1,7 @@
 # Starter Web Project - Title 
 
 ## Introduction 
-This repository is for showing how Git and GitHub work. adding a line for rebasing example, then more changes from myfeature branch
+This repository is for showing how Git and GitHub work. Updating for ememergency fix after statsh
 
 
 ## Purpose
