@@ -17,4 +17,4 @@ Doing this so that I have it it for setion 46. Please fork this repository and t
 This is a simple web project, deoployment can be on any web server or even local file system. 
 
 ### Copyright
-2026 Git.Training
+2026 Git.Training. All rights reserved.
